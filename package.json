@@ -1,0 +1,24 @@
+{
+  "name": "1st",
+  "version": "1.0.0",
+  "description": "\"this is test director to learn Node and git\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryan6098/React_coursera.git"
+  },
+  "author": "Aryan RAj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryan6098/React_coursera/issues"
+  },
+  "homepage": "https://github.com/aryan6098/React_coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
